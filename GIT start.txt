@@ -1,0 +1,10 @@
+1. W swoim zespole zakładacie zdalne repozytorium:
+	GIT_start
+	https://github.com/witaliden/GIT_start
+
+2. Sklonuj repozytorium:
+	git clone https://github.com/witaliden/GIT_start.git
+
+3. Sprawdź log i listę dostępnych gałęzi (puste repo?):
+	git log
+   	git branch
